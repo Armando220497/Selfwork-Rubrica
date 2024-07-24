@@ -1,0 +1,34 @@
+body {
+    background-color: #C0E8F9;
+}
+
+#titolo {
+    color: #080F0F;
+    font-family: 'Playwrite AR', cursive;
+}
+
+.custom-navbar {
+    background-color: #B8D3D1;
+}
+
+.nav-contact {
+    font-family: 'Playwrite AR';
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.list-contact .list-group-item {
+    background-color: transparent;
+    border-color: #080F0F;
+}
+
+.icon {
+    cursor: pointer;
+    color: red;
+}
+
+.edit-icon {
+    cursor: pointer;
+    color: blue;
+}
